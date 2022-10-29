@@ -1,5 +1,5 @@
 {
-  "name": "my-github-pg",
+  "name": "@bugofbook/my-github-pg",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
@@ -16,7 +16,7 @@
     "url": "https://github.com/Bugofbook/my-github-pg/issues"
   },
   "publishConfig": {
-    "@bugofbook:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com/"
   },
   "homepage": "https://github.com/Bugofbook/my-github-pg#readme"
 }
